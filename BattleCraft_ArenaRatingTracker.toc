@@ -1,0 +1,5 @@
+﻿## Interface: 30300
+## Title: BattleCraft |cff00ff99ArenaRatingTracker|r
+## Notes: Tracks arena rating changes
+## Author: 0xDeadUnicorn
+BattleCraft_ArenaRatingTracker.lua
